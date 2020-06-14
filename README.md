@@ -1,5 +1,9 @@
 # gomodcheck
 
+[![ci](https://github.com/johejo/gomodcheck/workflows/ci/badge.svg?branch=master)](https://github.com/johejo/gomodcheck/actions?query=workflow%3Aci)
+[![codecov](https://codecov.io/gh/johejo/gomodcheck/branch/master/graph/badge.svg)](https://codecov.io/gh/johejo/gomodcheck)
+[![Go Report Card](https://goreportcard.com/badge/github.com/johejo/gomodcheck)](https://goreportcard.com/report/github.com/johejo/gomodcheck)
+
 ## Description
 
 gomodcheck is a tool that reads go.mod and checks if a module needs updating.

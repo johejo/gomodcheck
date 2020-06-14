@@ -35,4 +35,6 @@ jobs:
           go-version: ${{ matrix.go }}
       - run: |
           go test -cover -coverprofile coverage.txt -race -v ./...
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: codecov/codecov-action@v1
