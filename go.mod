@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/PuerkitoBio/goquery v1.7.1
+	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/google/go-github/v32 v32.1.0
 	github.com/hashicorp/go-version v1.3.0
 	golang.org/x/mod v0.4.2
