@@ -7,5 +7,5 @@ require (
 	github.com/google/go-github/v32 v32.1.0
 	github.com/hashicorp/go-version v1.3.0
 	golang.org/x/mod v0.5.0
-	golang.org/x/oauth2 v0.0.0-20210805134026-6f1e6394065a
+	golang.org/x/oauth2 v0.0.0-20210810183815-faf39c7919d5
 )
